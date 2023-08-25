@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Code Nest</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0denest&label=Profile%20views&color=0e75b6&style=flat" alt="c0denest" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/codenestt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codenestt" height="30" width="40" /></a>
-<a href="https://discord.gg/NC3NxVWKxk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NC3NxVWKxk" height="30" width="40" /></a>
+<a href="https://discord.gg/NC3NxVWKxk" target="_blank"><img src="https://img.shields.io/badge/codenest-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://www.youtube.com/@CodeNestt" target="_blank"><img src="https://img.shields.io/badge/@CodeNestt-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a>
+<a href="https://codenest.tebex.io" target="_blank"><img src="https://img.shields.io/badge/codenest.tebex.io-%5DE3E2?style=for-the-badge&logo=telegraph&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Support:</h3>
